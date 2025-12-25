@@ -1,28 +1,127 @@
-# 💖 Anniversary 2.0 Website
+<div align="center">
 
-Celebrate love in style with Anniversary 2.0 - a beautifully crafted website experience. With elegant UI, romantic animations, and personalized messages, it transforms a simple ‘Happy Anniversary’ into a heartfelt and unforgettable moment✨❤️
+💖✨💖✨💖✨💖✨💖✨💖✨💖✨
 
-> ⚠️ This is a **free version**, so some features like background music, game screen, some animations are not included. Premium version includes all features.
-> You can **buy the premium code** from my store [here](https://www.anujbuilds.in/products/anniversary-v2).
+![Anniversary 2.0](https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=17,18,19,20,21&section=header&text=Anniversary%202.0&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Turn%20Love%20Into%20a%20Beautiful%20Digital%20Moment&descSize=20&descAlignY=60)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=FF6F91&center=true&vCenter=true&width=900&lines=Celebrate+Love+With+Soft+Animations+💖;More+Than+a+Wish%2C+It’s+a+Feeling+✨;Romantic+Moments+Made+Digital+🌸;Crafted+With+Care+by+Jeet+🎀" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Romantic-Vibes-ff6f91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Soft-Animations-f3b6c9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Emotion-First-222?style=for-the-badge"/>
+
+💖✨💖✨💖✨💖✨💖✨💖✨💖✨
+
+</div>
+
+---
+
+# 💖 Anniversary 2.0 Website  
+*A romantic digital experience to celebrate love, memories, and togetherness.*
+
+---
+
+## 🌸 About Anniversary 2.0
+
+**Anniversary 2.0** is a beautifully crafted website experience designed to turn a simple  
+**“Happy Anniversary”** into something **emotional, elegant, and unforgettable** ✨❤️
+
+With:
+- romantic animations  
+- personalized messages  
+- smooth visual flow  
+
+this project helps you express love in a way that feels **modern yet deeply personal**.
+
+It’s not just a website —  
+it’s a **moment**.
+
+---
+
+## 💞 Why This Feels Special
+
+Love deserves more than plain text.
+
+This project focuses on:
+- 🌸 calm transitions instead of loud effects  
+- 💖 emotions instead of complexity  
+- ✨ memories instead of features  
+
+Every animation exists to **support the feeling**, not distract from it.
+
+---
+
+## ✨ Experience Highlights
+
+<div align="center">
+
+| 💖 Romance | ✨ Motion | 🖼 Memories | 📱 Responsive |
+|-----------|----------|------------|---------------|
+| Heartfelt messages | Smooth transitions | Image & card slides | Works on all devices |
+| Personal & warm | Gentle fade-ins | Story-like flow | Mobile-first |
+
+</div>
+
+---
+
+## 🎀 Key Features (Free Version)
+
+- 💌 **Romantic Message Flow**  
+  Personalized text presented with soft animations
+
+- ✨ **Elegant Animations**  
+  Smooth entrance and fade effects using Framer Motion
+
+- 🖼️ **Image / Card Slider**  
+  Beautiful slideshow powered by Keen Slider
+
+- 🎨 **Clean & Modern UI**  
+  Minimal layout with warm, romantic tones
+
+- 📱 **Fully Responsive**  
+  Looks beautiful on mobile, tablet, and desktop
+
+---
+
+## ⚠️ Free vs Premium (Important)
+
+> ⚠️ This repository contains the **FREE VERSION**.
+
+### ❌ Free Version Does NOT Include:
+- Background music  
+- Game screen  
+- Advanced animations  
+- Premium interactive sections  
+
+### 💎 Premium Version Includes:
+- 🎶 Background music  
+- 🎮 Interactive game screen  
+- ✨ Extra animations & effects  
+- 💖 Full romantic experience  
+
+👉 You can buy the **premium code** here:  
+https://www.anujbuilds.in/products/anniversary-v2
 
 ---
 
 ## 🛠 Tech Stack
 
-- ⚛️ **Next.js** – React Framework for building fast UI
-- 🎨 **Tailwind CSS** – For modern and responsive styling
-- 🎞️ **Framer-motion** – Smooth entrance and fade animations
-- 🖼️ **Keen-slider** – For smooth image/cards slideshow
+- ⚛️ **Next.js** — React framework for fast UI  
+- 🎨 **Tailwind CSS** — Modern & responsive styling  
+- 🎞️ **Framer Motion** — Smooth romantic animations  
+- 🖼️ **Keen Slider** — Image & card slideshow  
 
 ---
 
 ## 🖥 Local Setup
 
-To run this project locally, follow these steps:
+To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/anniversary-site-v2.git
+git clone https://github.com/anniversary-site-v2.git
 
 # Navigate into the folder
 cd anniversary-site-v2
@@ -32,45 +131,3 @@ npm install
 
 # Start the development server
 npm run dev
-```
-
-Then open [http://localhost:3000](http://localhost:3000) in your browser to explore the site.
-
----
-
-## 🔗 Social Media
-
-Follow me for more emotional surprise websites and creative dev content:
-
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
-
----
-
-## ⭐ Support
-
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
-Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
-
-✨ If you'd like to support my work directly, you can donate via UPI:  
-**anujbuilds.wallet@phonepe**  
-Even a small contribution helps me keep creating cute, emotional projects 💖
-
----
-
-## ⚠️ License & Usage
-
-### Free Code
-- This free version is strictly for **personal use only**.  
-- You **cannot** post, upload, or share this project online in any form (e.g., Instagram reels, YouTube videos, websites, or any public platform).  
-- Using this free code publicly is **prohibited**.
-- Any violation will be considered **copyright infringement**, and I reserve the right to report it.
-
-### Premium Code
-- You can **buy the premium code** from my store [here](https://www.anujbuilds.in/products/anniversary-v2)
-- The premium code can be used publicly **only if proper credit is given**:  
-  `Website idea & code by @anujbuilds`  
-- Without credit or without explicit permission, public use is **not allowed**.
