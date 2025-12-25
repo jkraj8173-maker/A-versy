@@ -100,10 +100,6 @@ Every animation exists to **support the feeling**, not distract from it.
 - 🎮 Interactive game screen  
 - ✨ Extra animations & effects  
 - 💖 Full romantic experience  
-
-👉 You can buy the **premium code** here:  
-https://www.anujbuilds.in/products/anniversary-v2
-
 ---
 
 ## 🛠 Tech Stack
